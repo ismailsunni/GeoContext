@@ -71,6 +71,18 @@
             "srid": 3857,
             "layer_typename": "quaternary_catchment_area",
             "service_version": "1.0.0"
+        },
+        {
+            "key": "provinces_geoserver",
+             "name": "Province GeoServer",
+             "description": null,
+             "url": "http://maps.kartoza.com/geoserver/wfs",
+             "query_type": "WFS",
+             "result_regex": "qgs:id",
+             "time_to_live": 604800,
+             "srid": 3857,
+             "layer_typename": "kartoza:sa_provinces",
+             "service_version": "1.0.0"
         }
     ],
     "context_group": [
