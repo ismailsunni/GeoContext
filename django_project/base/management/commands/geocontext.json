@@ -81,7 +81,7 @@
             "result_regex": "qgs:id",
             "time_to_live": 604800,
             "srid": 3857,
-            "layer_typename": "kartoza:farm_portion",
+            "layer_typename": "farm_portion",
             "service_version": "1.0.0"
         },
         {
@@ -93,7 +93,7 @@
             "result_regex": "qgs:id",
             "time_to_live": 604800,
             "srid": 4326,
-            "layer_typename": "kartoza:erf",
+            "layer_typename": "erf",
             "service_version": "1.0.0"
         },
         {
@@ -105,7 +105,7 @@
             "result_regex": "qgs:district",
             "time_to_live": 604800,
             "srid": 3857,
-            "layer_typename": "kartoza:district_municipalities",
+            "layer_typename": "district_municipalities",
             "service_version": "1.0.0"
         },
         {
@@ -117,7 +117,7 @@
             "result_regex": "qgs:mn_name",
             "time_to_live": 604800,
             "srid": 3857,
-            "layer_typename": "kartoza:municipal_ward_boundaries",
+            "layer_typename": "municipal_ward_boundaries",
             "service_version": "1.0.0"
         },
         {
@@ -129,7 +129,7 @@
             "result_regex": "qgs:sp_name",
             "time_to_live": 604800,
             "srid": 4326,
-            "layer_typename": "kartoza:sub_places",
+            "layer_typename": "sub_places",
             "service_version": "1.0.0"
         }
     ],
