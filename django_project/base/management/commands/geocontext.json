@@ -244,7 +244,7 @@
     ],
     "context_group": [
         {
-            "key": "river_ecosystem_group",
+            "key": "water_group",
             "name": "River Catchments",
             "description": "Layers that relate to freshwater,estuarine and maritime ecosystems",
             "context_service_registry_keys": [
@@ -305,11 +305,11 @@
             ]
         },
         {
-            "key": "Rivers",
+            "key": "River Ecosystem",
             "name": "River Collection",
-            "description": "Collection of rivers and attributes and associated",
+            "description": "Collection of rivers layers and their ecosystems",
             "context_group_keys": [
-                "river_catchments_group"
+                "water_group"
 
             ]
         }
